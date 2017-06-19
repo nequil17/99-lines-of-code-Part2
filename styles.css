@@ -1,0 +1,16 @@
+body {
+    background-color: navy;
+}
+
+h1 {
+    color: coral;
+}
+
+.bgcolor {
+    background-color: red;
+}
+
+p {
+    text-transform: uppercase;
+    color: whitesmoke;
+}
